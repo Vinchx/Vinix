@@ -1,11 +1,16 @@
 {
   "name": "vinix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vinix pkg",
   "main": "app.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Vinchx/Vinix.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "vinchx",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": ["vinix"]
 }
