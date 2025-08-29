@@ -1,8 +1,8 @@
 {
   "name": "vinix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vinix pkg",
-  "main": "app.js",
+  "main": "index.js",
   "repository": {
   "type": "git",
   "url": "https://github.com/Vinchx/Vinix.git"
